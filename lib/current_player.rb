@@ -1,4 +1,4 @@
 def turn_count(board)
-  counter = 0 
+  turns = 0 
   
 end
