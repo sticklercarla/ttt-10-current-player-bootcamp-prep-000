@@ -7,7 +7,6 @@ def turn_count(board)
       turn += 1 
     end
   end
-  binding.pry
   token
 end
 
